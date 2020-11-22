@@ -9,6 +9,10 @@ A tool to fetch and verify the existence of endpoints from the Wayback Machine A
 * Accepts stdin as input
 * Optimizations made around old domains and timeouts
 
+#### Supported on:
+- python2
+- python3
+
 
 ### Usage:
 Fetch urls:
